@@ -1,0 +1,6 @@
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\Anul4\Semestrul1\Testarea Aplicatilor Software (TAS)\Proiect\Project_TAS\DemoLibrary\obj\Debug\DemoLibrary.pdb
